@@ -1,0 +1,19 @@
+[ Before changes ] -> [ After Changes ]
+4k: 4.09ns  4.15ns  4.41ns  4.43ns -> 3.98ns 4.17ns 4.25ns 4.22ns 
+8k: 4.22ns  4.19ns  4.30ns  4.15ns -> 4.57ns 4.40ns 4.50ns 4.50ns 
+16k: 3.97ns  4.31ns  4.30ns  4.28ns -> 4.38ns 4.54ns 4.63ns 8.12ns 
+32k: 3.82ns  4.51ns  4.25ns  4.31ns -> 4.10ns 4.56ns 4.60ns 4.68ns 
+64k: 4.50ns  5.59ns  6.13ns  6.14ns -> 4.78ns 5.99ns 6.45ns 6.45ns 
+128k: 5.06ns  4.47ns  6.75ns  6.69ns -> 5.40ns 5.48ns 7.05ns 7.05ns 
+256k: 4.83ns  4.43ns  6.62ns  6.21ns -> 5.11ns 4.74ns 6.89ns 6.51ns 
+512k: 4.45ns  4.75ns  6.19ns  6.65ns -> 4.76ns 5.04ns 6.62ns 6.84ns 
+1M: 4.72ns  4.73ns  6.74ns  6.47ns -> 4.97ns 4.82ns 7.05ns 7.07ns 
+2M: 4.66ns  4.86ns  14.49ns  15.00ns -> 4.97ns 5.03ns 15.26ns 15.51ns 
+4M: 4.85ns  4.95ns  15.90ns  15.98ns -> 5.23ns 5.25ns 16.58ns 16.81ns 
+6M: 4.94ns  5.03ns  17.19ns  17.31ns -> 5.25ns 5.50ns 17.22ns 17.34ns 
+8M: 5.05ns  5.18ns  17.49ns  17.64ns -> 5.41ns 5.49ns 17.82ns 18.34ns 
+16M: 5.55ns  5.79ns  20.99ns  23.70ns -> 5.96ns 6.20ns 22.89ns 23.69ns 
+32M: 8.54ns  9.06ns  124.61ns 125.07ns -> 9.22ns 9.05ns 128.35ns 153.76ns 
+64M: 8.42ns  8.63ns  196.17ns 204.52ns -> 8.84ns 9.07ns 206.68ns 232.99ns 
+128M: 8.31ns  8.58ns  230.46ns 242.63ns -> 9.06ns 9.29ns 245.25ns 262.61ns 
+256M: 8.80ns  8.80ns  248.24ns 261.68ns -> 8.33ns 8.65ns 253.68ns 293.69ns 
